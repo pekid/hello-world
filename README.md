@@ -6,3 +6,5 @@ edytowany
 nowa zawartosc
 
 test 1
+
+inny test
